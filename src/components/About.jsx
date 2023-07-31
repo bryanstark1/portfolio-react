@@ -5,15 +5,10 @@ export default function About() {
     <section id="about">
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Bryan.
-            <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
-          </h1>
+          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Hi, I'm Bryan.</h1>
+          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Fullstack software engineer & front-end web designer.</h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            As a full stack software engineer, I am driven by a strong desire to create a meaningful and lasting impact through my work. With a background as a web designer in healthcare communications, I have gained valuable experience in collaborating effectively across teams and departments, designing for specific target audiences, and handling sensitive information. My greatest sense of accomplishment comes from implementing intuitive and comprehensive solutions. I am committed to utilizing my skills and expertise to deliver exceptional results and contribute positively to any project I take on.
           </p>
           <div className="flex justify-center">
             <a
@@ -27,13 +22,6 @@ export default function About() {
               See My Past Work
             </a>
           </div>
-        </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
-            className="object-cover object-center rounded"
-            alt="hero"
-            src="./IMG_0028.JPG"
-          />
         </div>
       </div>
     </section>
