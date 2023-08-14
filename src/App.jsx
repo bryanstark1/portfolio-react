@@ -12,9 +12,9 @@ export default function App() {
     <main className='text-gray-400 bg-gray-900 body-font'>
       <Navbar />
       <Hero />
-      <About />
-      <Skills />
       <Projects />
+      <Skills />
+      <About />
       <Contact />
     </main>
   );
