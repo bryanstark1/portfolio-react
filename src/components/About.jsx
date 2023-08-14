@@ -9,7 +9,7 @@ export default function About() {
         <div className="lg:flex-grow lg:pr-24 lg:pl-24 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <div className="flex flex-col w-full">
           <InformationCircleIcon className="mx-auto inline-block w-10 mb-4" />
-          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white mx-auto">About me</h1>
+          <h1 className="title-font sm:text-4xl text-3xl mb-8 font-medium text-white mx-auto">About me</h1>
 
         </div>
           <p className="mb-8 leading-relaxed">
