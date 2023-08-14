@@ -5,8 +5,9 @@ export default function Hero() {
     <section id="hero">
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Hi, I'm Bryan.</h1>
-          <h1 className="title-font sm:text-2xl text-3xl mb-4 text-white">Fullstack Software Engineer & Front-End Web Designer.</h1>
+          <h1 className="title-font sm:text-4xl text-3xl mb-8 font-medium text-white">Hi, I'm Bryan.</h1>
+          <h1 className="title-font sm:text-2xl font-medium text-3xl text-white">Fullstack Software Engineer</h1>
+          <h1 className="title-font sm:text-2xl font-medium text-3xl mb-4 text-white">Front-End Web Developer</h1>
           <div className="flex justify-center">
             <a
               href="#contact"
