@@ -5,7 +5,7 @@ export const projects = [
     description:
       "A SoundCloud-style, music sharing application where users can upload, organize, edit, and listen to their music while sharing it with other users across the app.",
     image: "./NoiseNebula.png",
-    link: "https://pythonbootcamp.com",
+    link: "https://noisenebula.netlify.app/",
     github: "https://github.com/bryanstark1/noisenebula",
   },
   {
